@@ -1,5 +1,5 @@
 ### Hey here 👋
-<p>I had work in the field of blockchain smart contract currently focusing on working with Flutter development.</p>
+<p>I had worked in the field of blockchain smart contract currently focusing on working with Flutter development.</p>
 
 
 ### Languages i worked with
